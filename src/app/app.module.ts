@@ -12,7 +12,6 @@ import {RouterModule, RouterOutlet} from "@angular/router";
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    RouterModule.forRoot([]),
     RouterModule.forRoot(
       [
         //ovdje idu rute
